@@ -1,0 +1,14 @@
+/* body{
+    background-color: rgb(255, 0, 0);
+    color: white;
+} */
+.border{
+    border: 3px solid black;
+    /* width: 500px; */
+    
+}
+.server{
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(4,300px);
+}
